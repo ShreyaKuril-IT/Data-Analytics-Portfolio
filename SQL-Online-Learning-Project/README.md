@@ -21,5 +21,14 @@ This project analyzes an online learning platform database using SQL to extract 
 - Active vs inactive users
 - Category-wise course distribution
 
+## Sample Outputs
+
+### Students Enrolled in More Than 5 Courses
+![Students](Output_1.png)
+
+### Revenue Generated per Course Category
+![Revenue](Output_2.png)
+
+
 ## Conclusion
 This project demonstrates my ability to write optimized SQL queries to analyze relational databases and generate business insights.
