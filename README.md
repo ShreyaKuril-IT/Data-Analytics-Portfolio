@@ -16,6 +16,12 @@ This repository will contain my data analytics projects, including:
 - Dashboard Creation
 - Business Insights
 
+###  Blood Bank Data Analysis Dashboard (Excel)
+
+[Project Details](Blood-Bank-Project.md)  
+[Dataset & Excel File](blood-banks-clean_data-csv%20-%20Copy.xlsx)
+
+
 ##  Career Goal
 To leverage data to generate meaningful insights and support business decision-making.
 
