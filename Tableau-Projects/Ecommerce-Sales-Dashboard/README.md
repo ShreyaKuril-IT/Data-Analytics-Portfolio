@@ -37,5 +37,16 @@ This Tableau dashboard analyzes ecommerce sales performance by tracking sales tr
 - Dataset (.xlsx)
 - Dashboard Screenshots
 
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](ecommerce-main.png)
+
+### Category & Country Analysis
+![Category Analysis](ecommerce-category-country.png)
+
+### Top Products Dashboard
+![Top Products](ecommerce-top-products.png)
+
 ## Project Outcome
 This project demonstrates practical Tableau dashboard development skills, business reporting ability, and interactive visualization design.
