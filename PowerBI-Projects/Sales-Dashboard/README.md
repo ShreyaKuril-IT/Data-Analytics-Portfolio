@@ -19,3 +19,14 @@ This dashboard analyzes mobile sales performance across cities, brands, payment 
 - Power BI Dashboard File (.pbix)
 - Dataset (.xlsx)
 - Dashboard Screenshots
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](Dashboard-main.png)
+
+### MTD Dashboard
+![MTD Dashboard](Dashboard-mtd.png)
+
+### Comparison Dashboard
+![Comparison Dashboard](Dashboard-comparison.png)
