@@ -38,6 +38,14 @@ help understand business performance through interactive filters and visual insi
 - Excel Dataset (.xlsx)
 - Dashboard Screenshots
 
+## Dashboard Preview
+
+![Main Dashboard](Dashboard-main-1.png)
+
+![Orders Dashboard](Dashboard-orders-2.png)
+
+![MTD Dashboard](Dashboard-mtd-3.png)
+
 ## Project Outcome
 This project demonstrates practical skills in business intelligence,
 KPI reporting, data modeling, and dashboard design using Power BI.
